@@ -17,7 +17,7 @@ Less dashboards. More decisions.
 - Goal: Automate manual reporting and empower on-demand data access for internal teams.
 - Impact: Reduced manual report requests by 60% and enabled 24/7 data accessibility.
 - Description: Built an AI chatbot integrating Azure OpenAI and LangChain, connected to Power BI and SQL data sources. The system dynamically generated queries, improving decision turnaround and boosting data adoption across business units.
-- Tech Stack: Azure OpenAI, LangChain, Python, Power BI, SQL
+  Tech Stack: Azure OpenAI, LangChain, Python, Power BI, SQL
 
 
 ☁️ **Azure Data Engineering Pipeline**
@@ -25,28 +25,28 @@ Less dashboards. More decisions.
 - Goal: Optimize enterprise ETL performance and ensure secure orchestration.
 - Impact: Reduced query execution time by 25% and improved throughput using modular design.
 - Description: Designed a secure pipeline using ADF, Databricks, DBT, and ADLS Gen2. Integrated validation, schema mapping, and lineage tracking, while leveraging Azure Key Vault for credentials and RBAC for compliance.
-- Tech Stack: Azure Data Factory, Databricks, DBT, SQL Server, OneLake
+  Tech Stack: Azure Data Factory, Databricks, DBT, SQL Server, OneLake
 
 ✈️ **Aircraft Predictive Maintenance Model**
 
 - Goal: Anticipate engine failures before they occur to reduce downtime.
 - Impact: Achieved 98% model accuracy, enabling proactive maintenance scheduling.
 - Description: Developed a real-time predictive system using AWS Redshift, NiFi, and Airflow, applying Logistic Regression, RNN, and LSTM models to detect failure patterns from telemetry data.
-- Tech Stack: AWS Redshift, Apache NiFi, Airflow, Python, TensorFlow
+  Tech Stack: AWS Redshift, Apache NiFi, Airflow, Python, TensorFlow
 
 🏙️ **Geospatial Real Estate Analytics**
 
 - Goal: Identify high-yield investment zones through spatial and demographic data analysis.
 - Impact: Improved site selection efficiency by 35% and accelerated go/no-go decisions.
 - Description: Built end-to-end data pipelines to consolidate sales, demographic, and infrastructure datasets. Designed Power BI GIS dashboards with heatmaps, trend filters, and KPIs to support investment planning.
-- Tech Stack: Power BI, GIS, Python, SQL, Snowflake
+  Tech Stack: Power BI, GIS, Python, SQL, Snowflake
 
 ✋ **Sign Language Recognition Model**
 
 - Goal: Develop an AI system for real-time sign language translation.
 - Impact: Achieved 98% gesture recognition accuracy using YOLO and TensorFlow.
 - Description: Led a 4-member team to design a real-time computer vision pipeline capable of static and dynamic gesture recognition using OpenCV and YOLO.
-- Tech Stack: Python, TensorFlow, OpenCV, YOLO
+  Tech Stack: Python, TensorFlow, OpenCV, YOLO
   
 ---
 ### 💬 Ask me about
