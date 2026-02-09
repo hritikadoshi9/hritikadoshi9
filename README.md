@@ -2,8 +2,7 @@
 
 
 
-### 💡 Currently Exploring
-Data science, analytics, and machine learning projects that solve real business challenges — from ETL pipeline design to deploying predictive models. 
+Less dashboards. More decisions.
 
 ---
 ### 🎓 Education
