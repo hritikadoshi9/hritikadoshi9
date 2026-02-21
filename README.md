@@ -13,7 +13,7 @@
 
 ---
 
-I'm a **Data Engineer** who builds the invisible infrastructure behind better decisions — scalable pipelines, real-time systems, and AI-powered tools that close the gap between raw data and strategic action.
+I'm a **Analytics Engineer** who builds the invisible infrastructure behind better decisions — scalable pipelines, real-time systems, and AI-powered tools that close the gap between raw data and strategic action.
 
 - 🎓 **MS Computer Information Systems** — Boston University
 - 🎓 **BS Computer Science & Business Systems** — NMIMS, Mumbai
